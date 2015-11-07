@@ -1,0 +1,13 @@
+name: server-example
+root: ~/src
+
+windows:
+  - main:
+      layout: main-vertical
+      panes:
+        - #
+        - #
+        - #
+        - #
+        - #
+        - #
