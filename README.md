@@ -7,6 +7,13 @@ Example available in Ruby and Python (both do the same thing):
 - [server.py](root/src/server.py)
 - [server.rb](root/src/server.rb)
 
+What is this?
+-------------
+
+![SO_REUSEPORT sharding](slides/preview.png)
+
+See my really quick [Linux Port Sharding](https://speakerdeck.com/joewalnes/linux-port-sharding) walkthrough first.
+
 Setup
 -----
 
