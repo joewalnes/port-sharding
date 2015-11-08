@@ -18,7 +18,7 @@ Setup
 -----
 
 - If you're on Linux with kernel 3.9 or later (check with `uname -v`), you can just run the Python or Ruby scripts directly.
-- If you're NOT on Linux 3.9, fret not, install Docker and run `make`, which will install a working Docker image and drop you into a ready to go tmux session, where you can call the scripts.
+- If you're on Mac OSX, fret not, install Docker and run `make`, which will install a working Docker image and drop you into a ready to go tmux session, where you can call the scripts.
 
 Usage
 -----
