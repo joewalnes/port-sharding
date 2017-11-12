@@ -25,7 +25,7 @@ Usage
 
 Run the server, it listens on port 1234. Connect to it with netcat or telnet to see it do something: `nc localhost 1234`.
 
-Now run another server process, and a few more. You'll see the kernel allows allows these all to listen on the *same* port.
+Now run another server process, and a few more. You'll see the kernel allows these all to listen on the *same* port.
 
 Connect to the port. You'll see the kernel picks one of the processes and allows it to handle it. Next time it may be another process.
 
