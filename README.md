@@ -29,7 +29,7 @@ Now run another server process, and a few more. You'll see the kernel allows the
 
 Connect to the port. You'll see the kernel picks one of the processes and allows it to handle it. Next time it may be another process.
 
-You can add and remove processes. You can even run both the Python and Ruby processes at the same time and the kernel will share the workload.
+You can add and remove processes. You can even run both the Python and Ruby processes at the same time and the kernel will share the workload. However, note that queued connections which have not been accepted will be lost when stopping a process.
 
 More
 ----
